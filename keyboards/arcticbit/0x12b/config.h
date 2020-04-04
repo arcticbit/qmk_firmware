@@ -33,8 +33,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 /* key  matrix pins */
 #define MATRIX_ROW_PINS { B0, A4, A5, A6, A7, A8 }
-//                        O    1    2   3    4    5    6   7    8    9    0    ´
-#define MATRIX_COL_PINS { B1, B2, B4, B3, A13, B5, B12, A14, B9, B11, B10, B15, B7, B14, B13 }
+//                        §   1   2   3   4    5   6    7    8   9    0    ´
+#define MATRIX_COL_PINS { B1, B2, B4, B3, A13, B5, B12, A14, B11, B9, B10, B15, A0, A15, B13 }
 #define UNUSED_PINS
 
 /* COL2ROW, ROW2COL*/
